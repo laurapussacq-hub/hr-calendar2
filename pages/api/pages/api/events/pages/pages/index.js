@@ -1,5 +1,4 @@
-Pegá este código:
-javascriptimport { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import Head from 'next/head';
 import { format, addMonths, subMonths } from 'date-fns';
 import { es } from 'date-fns/locale';
