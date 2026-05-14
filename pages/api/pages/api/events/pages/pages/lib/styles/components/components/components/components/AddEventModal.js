@@ -1,5 +1,4 @@
-Pegá este código:
-javascriptimport { useState } from 'react';
+import { useState } from 'react';
 import { EVENT_TYPES } from '../lib/airtable';
 
 const TYPES = Object.keys(EVENT_TYPES);
