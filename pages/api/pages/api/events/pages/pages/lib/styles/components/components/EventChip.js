@@ -1,5 +1,4 @@
-Pegá este código:
-javascriptimport { EVENT_TYPES } from '../lib/airtable';
+import { EVENT_TYPES } from '../lib/airtable';
 
 export default function EventChip({ event, onClick }) {
   const type = EVENT_TYPES[event.tipo] || {
