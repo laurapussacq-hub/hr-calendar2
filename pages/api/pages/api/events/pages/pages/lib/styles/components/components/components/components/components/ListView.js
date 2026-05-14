@@ -1,5 +1,4 @@
-Pegá este código:
-javascriptimport { parseISO, format, isAfter, startOfDay } from 'date-fns';
+import { parseISO, format, isAfter, startOfDay } from 'date-fns';
 import { es } from 'date-fns/locale';
 import { EVENT_TYPES } from '../lib/airtable';
 
