@@ -1,4 +1,4 @@
-javascriptimport { useMemo } from 'react';
+import { useMemo } from 'react';
 import { startOfMonth, endOfMonth, startOfWeek, endOfWeek, addDays, isSameMonth, format, isToday } from 'date-fns';
 import EventChip from './EventChip';
 
