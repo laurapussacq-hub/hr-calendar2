@@ -1,4 +1,4 @@
-javascriptimport { deleteEvent } from '../../../lib/airtable';
+import { deleteEvent } from '../../../lib/airtable';
 
 export default async function handler(req, res) {
   if (req.method !== 'DELETE') {
